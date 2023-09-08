@@ -1,0 +1,247 @@
+
+.bodygradi {
+    background-image:linear-gradient(to bottom left, rgb(254, 250, 224),rgb(221, 161, 94));
+}
+
+.gradi, .bodygradi {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.ME{
+    color: rgb(40, 54, 24);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35pt;
+    position: absolute;left: 15pt;
+}
+.languages{
+    color: rgb(40, 54, 24);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35pt;
+    position: absolute;right: 5pt;
+    position: absolute;top: 1pt;
+}
+
+.Pic{
+    width: 200pt;
+    position: absolute;top: 80pt;
+    border: 8px solid rgb(96, 108, 56);
+    position: absolute;left: 15pt;
+}
+.python{
+    position: absolute;right: 120pt;
+    position: absolute;top: 85pt;
+    width: 50pt;
+}
+.sql{
+    position: absolute;right: 70pt;
+    position: absolute;top: 80pt;
+    width: 45pt;
+}
+.html{
+    position: absolute;right: 4pt;
+    position: absolute;top: 70pt;
+    width: 75pt;
+}
+.css{
+    position: absolute;right: 105pt;
+    position: absolute;top: 140pt;
+    width: 85pt;
+}
+.js{
+    position: absolute;right: 35pt;
+    position: absolute;top: 143.8pt;
+    width: 120pt;
+}
+.django{
+    position: absolute;right:15pt;
+    position: absolute;top: 153pt;
+    width: 65pt;
+}
+.java{
+    position: absolute;right: 95pt;
+    position: absolute;top: 215pt;
+    width: 110pt;
+}
+.mongo{
+    position: absolute;right: 58pt;
+    position: absolute;top: 215pt;
+    width: 75pt;
+}
+.spring{
+    position: absolute;right: 18pt;
+    position: absolute;top:225pt;
+    width: 50pt;
+}
+.about{
+    font-family:  'Montserrat', sans-serif;
+    position: absolute;left: 250pt;
+    position: absolute;top: 100pt;
+    color:  rgb(40, 54, 24);
+}
+.am{
+    font-family:  'Montserrat', sans-serif;
+    position: absolute;left: 250pt;
+    position: absolute;top: 75pt;
+    color:  rgb(40, 54, 24);
+    font-weight: bold;
+}
+.ab{
+    position: absolute;right: 363pt;
+    position: absolute;top: 75pt;
+    color:  rgb(40, 54, 24);
+    font-family:  'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.bcca{
+    position: absolute;right: 200pt;
+    position: absolute;top: 100pt;
+    color:  rgb(40, 54, 24);
+    font-family:  'Montserrat', sans-serif;
+}
+.bcp{
+    width: 250pt;
+    position: absolute;top: 200pt;
+    position: absolute;right: 200pt;
+    border: 8px solid rgb(96, 108, 56);
+}
+.projects{
+    color:  rgb(40, 54, 24);
+    font-family:  'Montserrat', sans-serif;
+    position: absolute;top: 360pt;
+    position: absolute;left: 75pt;
+}
+.tb{
+    width: 75pt;
+    position: absolute;left: 20pt;
+    position: absolute;top: 400pt;
+}
+.cc{
+    width: 75pt;
+    position: absolute;top: 400pt;
+    position: absolute;left: 120pt;
+}
+@media only screen and (max-width:1000px){
+    .bodygradi {
+        background-image:linear-gradient(to bottom left, rgb(254, 250, 224),rgb(221, 161, 94));
+    }
+    
+    .gradi, .bodygradi {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+    }
+    .ME{
+        color: rgb(40, 54, 24);
+        font-family: 'Montserrat', sans-serif;
+        font-size: 35pt;
+        position: absolute;left: 15pt;
+    }
+    .languages{
+        color: rgb(40, 54, 24);
+        font-family: 'Montserrat', sans-serif;
+        font-size: 35pt;
+        position: absolute;right: 5pt;
+        position: absolute;top: 1pt;
+    }
+    
+    .Pic{
+        width: 200pt;
+        position: absolute;top: 80pt;
+        border: 8px solid rgb(96, 108, 56);
+        position: absolute;left: 15pt;
+    }
+    .python{
+        position: absolute;right: 120pt;
+        position: absolute;top: 85pt;
+        width: 50pt;
+    }
+    .sql{
+        position: absolute;right: 70pt;
+        position: absolute;top: 80pt;
+        width: 45pt;
+    }
+    .html{
+        position: absolute;right: 4pt;
+        position: absolute;top: 70pt;
+        width: 75pt;
+    }
+    .css{
+        position: absolute;right: 105pt;
+        position: absolute;top: 140pt;
+        width: 85pt;
+    }
+    .js{
+        position: absolute;right: 35pt;
+        position: absolute;top: 143.8pt;
+        width: 120pt;
+    }
+    .django{
+        position: absolute;right:15pt;
+        position: absolute;top: 153pt;
+        width: 65pt;
+    }
+    .java{
+        position: absolute;right: 95pt;
+        position: absolute;top: 215pt;
+        width: 110pt;
+    }
+    .mongo{
+        position: absolute;right: 58pt;
+        position: absolute;top: 215pt;
+        width: 75pt;
+    }
+    .spring{
+        position: absolute;right: 18pt;
+        position: absolute;top:225pt;
+        width: 50pt;
+    }
+    .about{
+        font-family:  'Montserrat', sans-serif;
+        position: absolute;left: 250pt;
+        position: absolute;top: 100pt;
+        color:  rgb(40, 54, 24);
+    }
+    .am{
+        font-family:  'Montserrat', sans-serif;
+        position: absolute;left: 250pt;
+        position: absolute;top: 75pt;
+        color:  rgb(40, 54, 24);
+        font-weight: bold;
+    }
+    .ab{
+        position: absolute;left: 250pt;
+        position: absolute;top: 165pt;
+        color:  rgb(40, 54, 24);
+        font-family:  'Montserrat', sans-serif;
+        font-weight: bold;
+    }
+    .bcca{
+        position: absolute;left: 250pt;
+        position: absolute;top: 195pt;
+        color:  rgb(40, 54, 24);
+        font-family:  'Montserrat', sans-serif;
+    }
+    .bcp{
+        width: 250pt;
+        position: absolute;top: 280pt;
+        position: absolute;left: 240pt;
+        border: 8px solid rgb(96, 108, 56);
+    }
+    .projects{
+        color:  rgb(40, 54, 24);
+        font-family:  'Montserrat', sans-serif;
+        position: absolute;top: 360pt;
+        position: absolute;left: 75pt;
+    }
+    .tb{
+        width: 75pt;
+        position: absolute;left: 20pt;
+        position: absolute;top: 400pt;
+    }
+    .cc{
+        width: 75pt;
+        position: absolute;top: 400pt;
+        position: absolute;left: 120pt;
+    }
+}
